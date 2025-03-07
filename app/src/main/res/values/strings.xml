@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MoneyWise</string>
+    <string name="Money">Controla tu dinero, controla tu futuro\n\n</string>
+    <string name="inicio_sesion">Inicia Sesion</string>
+</resources>
